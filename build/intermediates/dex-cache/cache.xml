@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba3d954ab3ac3501b050c99cf217b33c8233bb0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/.android/build-cache/6d052410a704cb1af0d4ae21a61b42798e90563d/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_bfd5a2136241d5f5e1bb367684e6cc27a7e96684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/.android/build-cache/6d052410a704cb1af0d4ae21a61b42798e90563d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_935d5a48bc4b8d3cb2b4f7e58bd8ceb059740509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2eaa3e3302cd927eed9c89d805073fcf6065662">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_27c479cfe5d149892a2b398d434232b838e77c47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/.android/build-cache/c25a2772ec977d3f8c11630c651303b0c8456fcb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_060d319296c018a272af7a97ae65964cbd4b4194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/.android/build-cache/e45f3c6a46ddc94e19ffcb6cc3055cd66d25581c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7665a66f01e455c180ee374d9a5673baad2b11fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a79f1a24997456a34208748d7113d3fd90aa2c80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/.android/build-cache/b1e5b8f79038909cbc8cc2d3ed6c2f1ca29bcf43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04162185ea4b37ab4cac82b072e46bd278436b17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HParpia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/HParpia/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a79f1a24997456a34208748d7113d3fd90aa2c80/classes.dex" />
+    </item>
+
+</items>
